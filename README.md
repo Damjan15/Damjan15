@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Damjan Stamenov! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<!--
-**Damjan15/Damjan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as **Software Engineer at @PikselMk**
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **API Hacking & Penetration Testing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills - Technologies I use
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,laravel,mongodb,jest,git,github,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,php,sass,mysql,bootstrap,vscode,linux)
+
+## Connect with me:
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damjan-stamenov-a424951b8/)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/damjanstamenov/)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@br33ze____)
