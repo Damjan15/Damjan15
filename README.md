@@ -2,8 +2,6 @@
 
 🔭 I’m currently working as **Software Engineer at @PikselMk**
 
-🌱 I’m currently learning **API Hacking & Penetration Testing**
-
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,laravel,mongodb,jest,git,github,vercel,netlify)
 ![My Skills](https://skillicons.dev/icons?i=html,css,php,sass,mysql,bootstrap,vscode,linux)
