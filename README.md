@@ -1,6 +1,7 @@
 # Hi, I'm Damjan Stamenov! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 🔭 I’m currently working as **Software Engineer at @PikselMk**
+👯 I’m currently looking for new opportunities, and I’m looking to collaborate on open source/commercial projects.
 
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,laravel,git,github)
