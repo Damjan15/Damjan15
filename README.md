@@ -10,4 +10,4 @@
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damjan-stamenov/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/damjanstamenov/)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@br33ze____)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@Dam0n_S15)
