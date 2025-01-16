@@ -12,9 +12,8 @@ Here are the technologies I use to bring ideas to life:
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 While these are my go-to technologies, I have experience working with various others, such as PHP, React, Laravel, and Next.js. I’m always ready to explore more!
 
